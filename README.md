@@ -4,8 +4,8 @@
 ## [Goertzel's curriculum](http://wp.goertzel.org/agi-curriculum/) 
 
 - [ ] History of AI
-	- [ ] Computers and Thought (1963)
-	- [ ] What Computers Still Can’t Do (1972)
+	- [ ] [*Computers and Thought (1963)*]( https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/01_HistoryOfAI/ComputersAndThought.pdf)
+	- [ ] [*What Computers Still Can’t Do (1972)*]( https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/01_HistoryOfAI/WhatComputersCantDo.pdf)
 
 - [ ] AI Algorithms, Structures and Methods
 	- [ ] AI : A Modern Approach, Russel and Norvig
