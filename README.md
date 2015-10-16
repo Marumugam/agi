@@ -3,19 +3,19 @@
 
 ## [Goertzel's curriculum](http://wp.goertzel.org/agi-curriculum/) 
 
-- [ ] History of AI
+- [ ] **History of AI**
 	- [ ] [*Computers and Thought (1963)*]( https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/01_HistoryOfAI/ComputersAndThought.pdf)
 	- [ ] [*What Computers Still Can’t Do (1972)*]( https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/01_HistoryOfAI/WhatComputersCantDo.pdf)
 
-- [ ] AI Algorithms, Structures and Methods
-	- [ ] AI : A Modern Approach, Russel and Norvig
+- [ ] **AI Algorithms, Structures and Methods**
+	- [ ] [*AI : A Modern Approach, Russel and Norvig*](https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/02_AI_Algorithms%20StructuresAndMethods/Artificial%20Intelligence%20A%20Modern%20Approach%203rd%20Edition.pdf)
 	- [ ] The Design of Innovation, David Goldberg
 	- [ ] Introduction to Evolutionary Computing
 	- [ ] Neural Networks and Learning Machines
 	- [ ] Foundations of Language, Ray Jackendoff
 	- [ ] Speech and Language Processing, Jurafsky and Martin
 
-- [ ] Neuroscience and Cognitive Psychology
+- [ ] **Neuroscience and Cognitive Psychology**
 	- [ ] Neuroscience : Exploring the Brain
 	- [ ] Fundamentals of Cognitive Psychology
 	- [ ] Developmental Cognitive Neuroscience
@@ -24,7 +24,7 @@
 	- [ ] The Vision Revolution
 	- [ ] On Intelligence 
 
-- [ ] Philosophy of Mind
+- [ ] **Philosophy of Mind**
 	- [ ] The Hidden Pattern
 	- [ ] Toward a General Theory of General Intelligence
 	- [ ] A Mind World Correspondence Principle
@@ -37,7 +37,7 @@
 	- [ ] Mind and Nature : A Necessary Unity
 	- [ ] The Neurophilosophy of Free Will 
 
-- [ ] AGI : Theory and Architecture
+- [ ] **AGI : Theory and Architecture**
 	- [ ] Goertzel's AGI
 	- [ ] Theoretical Foundations of AGI
 	- [ ] Machine Super-Intelligence
