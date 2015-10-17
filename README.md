@@ -28,7 +28,7 @@
 	- [ ] The Hidden Pattern
 	- [ ] Toward a General Theory of General Intelligence
 	- [ ] A Mind World Correspondence Principle
-	- [ ] Neural Correlates of Consciousness
+	- [ ] [**Neural Correlates of Consciousness**](https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/04_PhilosophyOfMind/Thomas%20Metzinger%20-%20Neural%20Correlates%20of%20Consciousness.pdf)
 	- [ ] Being No One
 	- [ ] The Radiance of Being
 	- [ ] The Embodied Mind
