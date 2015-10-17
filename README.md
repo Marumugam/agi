@@ -10,7 +10,7 @@
 - [ ] **AI Algorithms, Structures and Methods**
 	- [ ] [*AI : A Modern Approach, Russel and Norvig*](https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/02_AI_Algorithms%20StructuresAndMethods/Artificial%20Intelligence%20A%20Modern%20Approach%203rd%20Edition.pdf)
 	- [ ] The Design of Innovation, David Goldberg
-	- [ ] Introduction to Evolutionary Computing
+	- [ ] [*Introduction to Evolutionary Computing*](https://media.githubusercontent.com/media/Marumugam/agi/master/doc/01_Goertzel/02_AI_Algorithms%20StructuresAndMethods/IntroToEvolutionaryComputing.pdf)
 	- [ ] Neural Networks and Learning Machines
 	- [ ] Foundations of Language, Ray Jackendoff
 	- [ ] Speech and Language Processing, Jurafsky and Martin
